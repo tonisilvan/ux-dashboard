@@ -4,6 +4,10 @@ An **interactive data visualization dashboard** built with **Next.js** and **Typ
 Designed to demonstrate **best practices in UX, accessibility, and data storytelling**, 
 it includes dynamic charts, filters, searches, and polished UI/UX micro‑interactions.
 
+## 🌐 Live Demo
+
+👉 [View on Vercel](https://ux-dashboard.vercel.app/)
+
 ---
 
 ## 🚀 Tech Stack
